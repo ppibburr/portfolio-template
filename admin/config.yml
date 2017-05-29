@@ -2,5 +2,6 @@ backend:
   name: github
   repo: ppibburr/portfolio-template # Path to your Github repository
   branch: master # Branch to update
-  publish_mode: editorial_workflow
-  media_folder: 'images'
+  
+publish_mode: editorial_workflow
+media_folder: 'images'
